@@ -65,7 +65,7 @@ This project was completed as part of a group, and I contributed the following:
 
 ## 📬 Contact
 
-📧 manusingh@example.com  
+📧 singhmanu0508.com  
    https://www.linkedin.com/in/manu-singh-a68776ab/  
 🌐 GitHub: [manusingh5](https://github.com/manusingh5)
 
