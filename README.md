@@ -45,7 +45,7 @@ Data was cleaned and preprocessed using **PySpark** in a **VMware-based Ubuntu e
 
 walmart-sales-forecasting/
 ├── notebooks/ # EDA, PySpark Preprocessing, Prophet Model
-├── dashboards/ # Tableau screenshot exports (optional)
+├── dashboards/ # Tableau screenshot exports 
 ├── presentation/ # Project presentation slides (PPTX)
 ├── README.md
 
