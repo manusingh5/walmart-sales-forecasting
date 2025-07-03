@@ -1,8 +1,8 @@
-# 📊 Walmart Sales Data Analysis & Forecasting using PySpark and Prophet
+# 📊 Walmart Sales Data Analysis & Forecasting using PySpark and Machine learning
 
-This project focuses on analyzing Walmart’s retail sales data and building a time series forecasting model using Facebook Prophet. The goal is to uncover sales patterns, seasonality, and trends that support data-driven business decisions like inventory planning and revenue forecasting.
+This project focuses on analyzing Walmart’s retail sales data and building a time series forecasting model using Facebook Prophet and machine learning model. The goal is to uncover sales patterns, seasonality, and trends that support data-driven business decisions like inventory planning and revenue forecasting.
 
-Data was cleaned and preprocessed using **PySpark** in a **VMware-based Ubuntu environment** to handle larger datasets. The forecasting was done using **Facebook Prophet**, and final insights were shared through an **interactive Tableau dashboard**.
+Data was cleaned and preprocessed using **PySpark** in a **VMware-based Ubuntu environment** to handle larger datasets. The forecasting was done using **Facebook Prophet and machine learning model**, and final insights were shared through an **interactive Tableau dashboard**.
 
 ---
 
@@ -14,7 +14,7 @@ Data was cleaned and preprocessed using **PySpark** in a **VMware-based Ubuntu e
 - **Exploratory Data Analysis (EDA)**  
   Identified sales trends, regional variations, and product-wise performance using visual analytics and statistics.
 
-- **Sales Forecasting (Facebook Prophet)**  
+- **Sales Forecasting **  
   Used time series forecasting to predict future sales across different time windows. Key elements like seasonality and trend components were visualized and interpreted.
 
 - **Interactive Tableau Dashboard**  
@@ -58,7 +58,7 @@ This project was completed as part of a group, and I contributed the following:
 
 - Cleaned and processed data using PySpark in a VMware Linux environment  
 - Conducted EDA to discover patterns in regional/product sales  
-- Built the forecasting model using Facebook Prophet  
+- Built the forecasting model using Facebook Prophet and machine learning model 
 - Designed the Tableau dashboard 
 
 ---
